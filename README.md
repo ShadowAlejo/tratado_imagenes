@@ -140,13 +140,6 @@ Las carpetas de resultados se generan automáticamente durante la ejecución:
 
 ---
 
-## 👤 Autor
-
-**Alejandro Torres**
-- GitHub: [@ShadowAlejo](https://github.com/ShadowAlejo)
-
----
-
 ## 📄 Licencia
 
 Este proyecto es de uso académico. Para otros usos, contactar al autor.
